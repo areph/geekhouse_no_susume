@@ -9,7 +9,7 @@
 ![ProfileImage](assets/profile.jpg)
 
 ### 三浦 信二
-##### FreeLance Software Engineer
+##### Software Engineer
 ##### 2016/5より上京＆ギークハウス新丸子入居
 ##### その後ギークハウス元住吉へ
 
