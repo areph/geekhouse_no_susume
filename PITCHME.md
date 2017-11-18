@@ -19,8 +19,9 @@
 
 ### ギークハウスって？
 
++++?image=assets/geekhouse_top.png
 
----
+[http://geekhouse.tumblr.com/](http://geekhouse.tumblr.com/)
 
 ---
 
