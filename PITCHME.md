@@ -8,8 +8,8 @@
 
 ![ProfileImage](assets/profile.jpg)
 
-### 三浦 信二
-##### Software Engineer
+#### 三浦 信二
+##### Software Engineer(Rails/Java/Groovy/Android/Kotlin/Vim)
 ##### 2016/5より上京＆ギークハウス新丸子入居
 ##### その後ギークハウス元住吉へ
 
@@ -21,23 +21,27 @@
 
 +++?image=assets/geekhouse_top.png
 
-[http://geekhouse.tumblr.com/](http://geekhouse.tumblr.com/)
++++
+
+#### いわゆるシェアハウス(同居)
+
+##### 一つ屋根のに下でみんなで暮らす
+##### ギーク(オタク)というだけあってIT関連の技術者やオタクが多い
+##### でも別にそうでない人も多い
+##### ギークハウスと一言で言っても各ギークハウスで特色がありすぎる
 
 ---
-
 
 ### 何がいいの？
 
+##### 都心に構えるギークハウスも多く格安な場所も多い
 
----
 
 ---
 
 
 ### 誰におすすめ？
 
-
----
 
 ---
 
